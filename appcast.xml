@@ -3,13 +3,29 @@
     <channel>
         <title>Voicer</title>
         <item>
+            <title>0.1.12</title>
+            <pubDate>Sun, 25 Oct 2026 13:45:12 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer-0.1.12.zip" length="5078481" type="application/octet-stream" sparkle:edSignature="aNPM9YXbxUceE4gdNnelaCV38uoA/Ld0uBE8xw54/1p46Y2nJHPGs+DI7LQZ7tFFbWlNioZ/vI7vVI9NZzHKAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer%20Dev13-12.delta" sparkle:deltaFrom="12" length="143398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z0I9UHE1ziu9PJSlqI9N4BLdsFxzCDqtXI0+YgRnPGFJ0NPHBxjSeDS6LkzARz+8mOAbYxwZIoMVlrka5jkgDA=="/>
+                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer%20Dev13-11.delta" sparkle:deltaFrom="11" length="143274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hj1M5Ov7EryUUy/RIjq9Nx2TJ2mTKVR8iNPn+u+wEj6xQrk0sasWLAgyIKQWPABCwuVn4e3QfnbQl3uY2Od1Cw=="/>
+                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer%20Dev13-10.delta" sparkle:deltaFrom="10" length="143398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0r4ko70bNnhBH/RPy0gvq07d/hEPPdi3p19rQWsQ8lIMfopqhB2BaW9bwU75eLQ8aPdP48qhpANRSG8BlLIzAQ=="/>
+                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer%20Dev13-9.delta" sparkle:deltaFrom="9" length="183982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ol4Mfv9+JjcDJHOhgbf3MJBEd/jMElN99pMdb8i8C+/UGqnLdvg9mwzJ+gnWE2pcF/WEb7WOzcC2si3zFFYdBw=="/>
+                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer%20Dev13-8.delta" sparkle:deltaFrom="8" length="182898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UmeNdN5XIJ953kiZpIxL0TUalR9CW4luOGciXGWSymr7toWTBnVYuG70cTXp9kENnI2VLtSG4nNVB7dLfJpoAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.11</title>
             <pubDate>Sun, 25 Oct 2026 13:34:30 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.11/Voicer-0.1.11.zip" length="5070904" type="application/octet-stream" sparkle:edSignature="QSwBvWNePrsg3LnhoimKPICWjHoOiO/Sds6wT4RAOrmaqXM1dizqccFKz86+/KVFWfatj/Ko42Qsk2RgHv2fCg=="/>
+            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer-0.1.11.zip" length="5070904" type="application/octet-stream" sparkle:edSignature="QSwBvWNePrsg3LnhoimKPICWjHoOiO/Sds6wT4RAOrmaqXM1dizqccFKz86+/KVFWfatj/Ko42Qsk2RgHv2fCg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.11/Voicer%20Dev12-11.delta" sparkle:deltaFrom="11" length="53902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xNdBOO3LZBLOU74eRrlKIWr36Bg7pZfwAmXZbqURfNtOHJf/7BpjJ8gr/n/WiCTKcJx/cY4kzzpcXeO/VHy8Dw=="/>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.11/Voicer%20Dev12-10.delta" sparkle:deltaFrom="10" length="53354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GlGGAyFKX7V88E4CaeOG2yFkeKvsPEhcunHG2fapp8NoT8MRkqUL3P0HLwrKun4JJyJan5UPg1WFY8U1rI/TCg=="/>
@@ -25,29 +41,13 @@
             <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.11/Voicer-0.1.10.zip" length="5070777" type="application/octet-stream" sparkle:edSignature="KMW0NC2VSsjCsuwxns29ihCQvrjkSYhVOl8t8ZMQAXbIFChYWutbhpDDQgDyUXghfA7dUIsjo448orQXrKluBA=="/>
+            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.12/Voicer-0.1.10.zip" length="5070777" type="application/octet-stream" sparkle:edSignature="KMW0NC2VSsjCsuwxns29ihCQvrjkSYhVOl8t8ZMQAXbIFChYWutbhpDDQgDyUXghfA7dUIsjo448orQXrKluBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.10/Voicer%20Dev11-10.delta" sparkle:deltaFrom="10" length="29510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+dyLJSmrtaWUHffssYDKfmYmE6/sGT8Yxxi/NtFhLOlrc7FcwKp285ZP7zaucS/fuImHvrULpJnI2WeDuZBBAw=="/>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.10/Voicer%20Dev11-9.delta" sparkle:deltaFrom="9" length="87370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZuPXS69dyk5Fxv9vEykRPQ6Mb0Uj7OumNwUu9ngndr6J0kN+yl325lMPCvSJP/B77n+iIVR+6zKvX+RNrB3uBA=="/>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.10/Voicer%20Dev11-8.delta" sparkle:deltaFrom="8" length="85054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5gwghmLG8GQoxa/EMW1xfuZRU4Ao1AtNxFXAs0psQIlcZtFUWXJ1idvdPeIvWV2AUn7R8NNAgag4shxluFXlBw=="/>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.10/Voicer%20Dev11-7.delta" sparkle:deltaFrom="7" length="133474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s3YpiyHG412qNrxveckzg/Whj9AZHfCn/jY16idCvMK0p9yrTnfBCP8AnskanCC2s8bxPvPLKiLVk9snc/IGCQ=="/>
                 <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.10/Voicer%20Dev11-6.delta" sparkle:deltaFrom="6" length="184574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tTv3k0LiLTtXUmzxKFNBLzJhIIEUTBx5MPTVu1HEP74uMlMWhYHDBjGiufB3McoWDaJoUuD0yplshdBljOG4AA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.9</title>
-            <pubDate>Sun, 25 Oct 2026 01:28:02 +0000</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.11/Voicer-0.1.9.zip" length="5070751" type="application/octet-stream" sparkle:edSignature="sCcRLEj3pkyl34mdyHeTAMsv/8bVYcqa+J8h76ThNSyp3o8llR5AAiBjnEGOd0rVGn8CPGDkspK29uLs7XViDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.9/Voicer%20Dev10-9.delta" sparkle:deltaFrom="9" length="86922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ui6mXVJUS3Z2LnVom+wkPtI4Mwnw2qcvzABKNICHMaUhm+tb7V9lEOxcFmk57o8cAHjCIKI8HIWG6IQ3SP5lDA=="/>
-                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.9/Voicer%20Dev10-8.delta" sparkle:deltaFrom="8" length="87546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nj4b8DAasQOohH7ReXDZxV0CWOOx1rjC7V2KfoAUZ6qMMrose8c2qfXq+7HuV2ZlotbbP35YmjUxDgucWTTWDA=="/>
-                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.9/Voicer%20Dev10-7.delta" sparkle:deltaFrom="7" length="133082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1Jkdj+lfgmGONzhORusD2rQ/9UB6Rqq87SNh52BWgAzn859wol6wwHN+BOE1Iuksr/Tf/6/fdDfJAbXY9GegCA=="/>
-                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.9/Voicer%20Dev10-6.delta" sparkle:deltaFrom="6" length="185570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fybU/jsdxGp6by8H/pp31s9kk4f49UPdvcksFmeHWVrrhfiW3oOUSbBuLASP1lMVWTs0pvPiKEjhfQSNpZvGAA=="/>
-                <enclosure url="https://github.com/halinskiy/voicer-updates/releases/download/v0.1.9/Voicer%20Dev10-5.delta" sparkle:deltaFrom="5" length="1779786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iiftlAwmumt7KBoM9A68BREJxluEWGOFhiDJd5tKZ/lleBdkO3oPv4Spc7bvof5In0ia4jWsFGoXQRXKc/iXCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
